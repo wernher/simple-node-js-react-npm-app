@@ -29,5 +29,5 @@ echo '(This is why you specified the "args ''-p 3000:3000''" parameter when you'
 echo 'created your initial Pipeline as a Jenkinsfile.)'
 
 
-                cd client
+                cd client_02
 npm start
