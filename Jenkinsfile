@@ -5,8 +5,8 @@ pipeline {
     stages {
         stage('Build') { 
             steps {
-                // sh 'npm install' 
-                sh 'npx create-react-app client_02'
+                sh 'npm install' 
+                // sh 'npx create-react-app client_02'
             }
         }
         stage('Test') { 
