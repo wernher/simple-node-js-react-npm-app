@@ -7,7 +7,7 @@
   height: 80px;
 }
 /* GreenTwin-Logo */
-.App-logo {
+.GreenTwin-logo {
   animation: GreenTwin-logo-spin infinite 20s linear;
   height: 80px;
 
@@ -31,6 +31,7 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
 /* GreenTwin-Logo */
 @keyframes GreenTwin-logo-spin {
   from { transform: rotate(0deg); }
